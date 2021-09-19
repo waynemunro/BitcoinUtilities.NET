@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BitcoinUtilities.NET/1.0.0": {
+        "dependencies": {
+          "BouncyCastle": "1.0.0"
+        },
+        "runtime": {
+          "BitcoinUtilities.NET.dll": {}
+        }
+      },
+      "BouncyCastle/1.0.0": {
+        "runtime": {
+          "BouncyCastle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BitcoinUtilities.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BouncyCastle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

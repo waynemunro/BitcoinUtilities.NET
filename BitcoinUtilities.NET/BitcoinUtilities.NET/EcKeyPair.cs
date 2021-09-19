@@ -107,7 +107,7 @@ namespace Bitcoin.BitcoinUtilities
             }
 
             //below is for compressed public key
-            int Y = _ecParams.G.Multiply(privKey).Y.ToBigInteger().IntValue;
+            int Y = _ecParams.G.Multiply(privKey).YCoord.ToBigInteger().IntValue;
 
             byte b;
 

@@ -1,0 +1,14 @@
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\net5.0\BitcoinUtilities.NET.deps.json
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\net5.0\BitcoinUtilities.NET.dll
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\net5.0\ref\BitcoinUtilities.NET.dll
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\net5.0\BitcoinUtilities.NET.pdb
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\net5.0\BouncyCastle.dll
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\bin\Debug\net5.0\BouncyCastle.pdb
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\BitcoinUtilities.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\BitcoinUtilities.NET.AssemblyInfoInputs.cache
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\BitcoinUtilities.NET.AssemblyInfo.cs
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\BitcoinUtilities.NET.csproj.CoreCompileInputs.cache
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\BitcoinUtilities.NET.csproj.CopyComplete
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\BitcoinUtilities.NET.dll
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\ref\BitcoinUtilities.NET.dll
+C:\1 Dev\Source\Repos\GitHub\BitcoinUtilities.NET\BitcoinUtilities.NET\BitcoinUtilities.NET\obj\Debug\net5.0\BitcoinUtilities.NET.pdb

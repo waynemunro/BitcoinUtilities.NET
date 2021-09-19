@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET.csproj": {}
+  },
+  "projects": {
+    "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\bccrypto-csharp-1.8.10\\crypto\\BouncyCastle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\bccrypto-csharp-1.8.10\\crypto\\BouncyCastle.csproj",
+        "projectName": "BouncyCastle",
+        "projectPath": "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\bccrypto-csharp-1.8.10\\crypto\\BouncyCastle.csproj",
+        "packagesPath": "C:\\Users\\wamunro\\.nuget\\packages\\",
+        "outputPath": "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\bccrypto-csharp-1.8.10\\crypto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wamunro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET.csproj",
+        "projectName": "BitcoinUtilities.NET",
+        "projectPath": "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET.csproj",
+        "packagesPath": "C:\\Users\\wamunro\\.nuget\\packages\\",
+        "outputPath": "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\BitcoinUtilities.NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wamunro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\bccrypto-csharp-1.8.10\\crypto\\BouncyCastle.csproj": {
+                "projectPath": "C:\\1 Dev\\Source\\Repos\\GitHub\\BitcoinUtilities.NET\\bccrypto-csharp-1.8.10\\crypto\\BouncyCastle.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
